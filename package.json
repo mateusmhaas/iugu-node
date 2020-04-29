@@ -1,7 +1,7 @@
 {
-  "name": "iugu",
-  "version": "0.0.6",
-  "description": "Biblioteca Iugu para Node.js",
+  "name": "@mateusmhaas/iugu",
+  "version": "0.0.1",
+  "description": "Biblioteca CORRIGIDA Iugu para Node.js",
   "homepage": "https://github.com/iugu/iugu-node",
   "author": {
     "name": "Luis Specian",
@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iugu/iugu-node.git"
+    "url": "https://github.com/mateusmhaas/iugu-node.git"
   },
-  "bugs:": "https://github.com/iugu/iugu-node/issues",
+  "bugs:": "https://github.com/mateusmhaas/iugu-node/issues",
   "engines": {
     "node": ">= v0.8.0"
   },
